@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Final+Year+BIS+Student;Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast;Transforming+Data+Into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Final+Year+BIS+Student;Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast;Transforming+Data+Into+Insights" alt="Typing SVG" />
   </a>
 
 </div>
