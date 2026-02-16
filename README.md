@@ -29,14 +29,19 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=mysql,excel&theme=dark" style="vertical-align: middle;" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" width="48" height="48" style="border-radius: 5px; vertical-align: middle; margin: 0 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50" style="margin: 5px;" />
 
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_168860.png" width="48" height="48" style="border-radius: 5px; vertical-align: middle; margin: 0 4px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50" style="margin: 5px;" />
 
-  <img src="https://skillicons.dev/icons?i=ppt,powerbi,access,word,tableau&theme=dark" style="vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Odoo_logo.svg" alt="Odoo" width="50" height="50" style="margin: 5px;" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_168860.png" alt="SAP" width="50" height="50" style="margin: 5px;" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" width="50" height="50" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" width="50" height="50" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="50" height="50" style="margin: 5px;" />
 
 </div>
 
@@ -57,4 +62,14 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
 ---
 
-###
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hassan-ali-ha2026">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
+  </a>
+  &nbsp;
+  <a href="mailto:hassan.ali.ha2026@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" />
+  </a>
+</div>
