@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=BIS+Student+%7C+Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast;Transforming+Data+Into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Final+Year+BIS+Student;Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast;Transforming+Data+Into+Insights" alt="Typing SVG" />
   </a>
 
 </div>
@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-**Senior Business Information Systems (BIS) Student | Data & Business Analysis**
+**Final Year Business Information Systems (BIS) Student | Data & Business Analysis**
 
-As a senior BIS student, I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making.
+As a Final Year BIS student, I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making.
 
 Through academic rigor and practical application, I have developed a strong proficiency in:
 
@@ -29,16 +29,12 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,tableau,powerbi,excel,access,visio,word,ppt&perline=8" />
-</div>
+  <img src="https://skillicons.dev/icons?i=mysql,tableau,powerbi,excel,access,visio,word,ppt&perline=8&theme=dark" />
+  
+  <br><br>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supply_Chain-1D2D50?style=for-the-badge" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Odoo_logo.svg/100px-Odoo_logo.svg.png" width="48" height="48" alt="Odoo" style="margin: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/100px-SAP_2011_logo.svg.png" width="48" height="48" alt="SAP" style="margin: 5px;" />
 </div>
 
 ---
@@ -53,7 +49,7 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanAliHassanAli&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HassanAliHassanAli&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -62,9 +58,10 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hassan-ali-ha2026">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
   </a>
+  &nbsp;
   <a href="mailto:hassan.ali.ha2026@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" />
   </a>
 </div>
