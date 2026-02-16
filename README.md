@@ -30,23 +30,23 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
 <div align="center">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" style="margin: 0 5px;" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" alt="Odoo" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Odoo_logo.svg" alt="Odoo" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" height="50" style="margin: 0 5px;" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" height="50" style="margin: 0 5px;" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="50" style="margin: 0 5px;" />
 
 </div>
 
