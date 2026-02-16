@@ -29,12 +29,15 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,tableau,powerbi,excel,access,visio,word,ppt&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,excel,word,ppt,access,powerbi,tableau&theme=dark" style="vertical-align: middle;" />
   
-  <br><br>
+  <a href="https://www.odoo.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=FDo14S7i2p3I&format=png" width="48" height="48" alt="Odoo" style="border-radius: 6px; margin-left: 4px; vertical-align: middle;" />
+  </a>
+  <a href="https://www.sap.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=92215&format=png" width="48" height="48" alt="SAP" style="border-radius: 6px; margin-left: 4px; vertical-align: middle;" />
+  </a>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Odoo_logo.svg/100px-Odoo_logo.svg.png" width="48" height="48" alt="Odoo" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/100px-SAP_2011_logo.svg.png" width="48" height="48" alt="SAP" style="margin: 5px;" />
 </div>
 
 ---
