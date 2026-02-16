@@ -29,19 +29,24 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50" style="margin: 0 5px;" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/odoo.png" alt="Odoo" width="50" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP" width="50" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Odoo_logo.svg" alt="Odoo" width="50" height="50" style="margin: 5px;" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_168860.png" alt="SAP" width="50" height="50" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" alt="PowerPoint" width="50" height="50" style="margin: 0 5px;" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" width="50" height="50" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" width="50" height="50" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="50" height="50" style="margin: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50" style="margin: 0 5px;" />
+
+  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" alt="Access" width="50" height="50" style="margin: 0 5px;" />
+
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50" style="margin: 0 5px;" />
+
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" alt="Word" width="50" height="50" style="margin: 0 5px;" />
+
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50" style="margin: 0 5px;" />
 
 </div>
 
