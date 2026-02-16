@@ -32,9 +32,9 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50" style="margin: 0 5px;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/odoo/odoo-original.svg" alt="Odoo" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" alt="Odoo" width="50" height="50" style="margin: 0 5px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sap/sap-original.svg" alt="SAP" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" width="50" height="50" style="margin: 0 5px;" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="50" height="50" style="margin: 0 5px;" />
 
@@ -42,11 +42,11 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" width="50" height="50" style="margin: 0 5px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 0 5px;" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" width="50" height="50" style="margin: 0 5px;" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50" style="margin: 0 5px;" />
 
 </div>
 
