@@ -29,14 +29,14 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,excel,word,ppt,access,powerbi,tableau&theme=dark" style="vertical-align: middle;" />
+
+  <img src="https://skillicons.dev/icons?i=mysql,excel&theme=dark" style="vertical-align: middle;" />
   
-  <a href="https://www.odoo.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=FDo14S7i2p3I&format=png" width="48" height="48" alt="Odoo" style="border-radius: 6px; margin-left: 4px; vertical-align: middle;" />
-  </a>
-  <a href="https://www.sap.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=92215&format=png" width="48" height="48" alt="SAP" style="border-radius: 6px; margin-left: 4px; vertical-align: middle;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" width="48" height="48" style="border-radius: 5px; vertical-align: middle; margin: 0 4px;" />
+
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_168860.png" width="48" height="48" style="border-radius: 5px; vertical-align: middle; margin: 0 4px;" />
+
+  <img src="https://skillicons.dev/icons?i=ppt,powerbi,access,word,tableau&theme=dark" style="vertical-align: middle;" />
 
 </div>
 
@@ -57,14 +57,4 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
 ---
 
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/hassan-ali-ha2026">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
-  </a>
-  &nbsp;
-  <a href="mailto:hassan.ali.ha2026@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" />
-  </a>
-</div>
+###
