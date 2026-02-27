@@ -1,11 +1,9 @@
 <div align="center">
- 
   <h1>Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Final+Year+BIS+Student;Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast;Transforming+Data+Into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Final+Year+BIS+Student;Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast" alt="Typing SVG" />
   </a>
-
 </div>
 
 ---
@@ -14,49 +12,49 @@
 
 **Final Year Business Information Systems (BIS) Student | Data & Business Analysis**
 
-As a Final Year BIS student, I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making.
+I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making. Through academic rigor and practical application, I have developed strong proficiency in:
 
-Through academic rigor and practical application, I have developed a strong proficiency in:
+* 📊 **Data Analysis:** Designing interactive dashboards and analyzing KPIs using database management tools.
+* 🔄 **Business Analysis:** Modeling business processes, designing workflows, and working within Agile methodologies.
+* 🏭 **ERP Systems:** Practical understanding of supply chain management and logistics optimization.
 
-* **📊 Data Analysis:** Designing interactive dashboards and analyzing KPIs using **Power BI** and **Tableau**, leveraging **SQL** for database management.
-* **🔄 Business Analysis:** Modeling business processes and designing workflows using **Microsoft Visio**, with a solid foundation in Agile methodologies.
-* **🏭 ERP Systems:** Practical understanding of **Odoo** and **SAP**, specifically applied to Supply Chain Management and Logistics.
-
-I have successfully delivered comprehensive projects, including an **E-commerce Analytics Dashboard** and a **Logistics Management System**. Combining an analytical mindset with technical proficiency, I am seeking a challenging role or internship where I can leverage these tools to optimize performance and contribute to organizational success.
+Combining an analytical mindset with technical proficiency, I am seeking a challenging role or internship where I can leverage these tools to optimize performance and contribute to organizational success.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
+**Data Analytics & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white" alt="Access" />
+</p>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" style="margin: 0 5px;" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Odoo_logo.svg" alt="Odoo" height="50" style="margin: 0 5px;" />
+**Business Analysis & ERP**
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=Microsoft%20Visio&logoColor=white" alt="Visio" />
+  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=Agile&logoColor=white" alt="Agile" />
+</p>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" height="50" style="margin: 0 5px;" />
+---
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" height="50" style="margin: 0 5px;" />
+### 🚀 Featured Projects
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="margin: 0 5px;" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" height="50" style="margin: 0 5px;" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" style="margin: 0 5px;" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="Word" height="50" style="margin: 0 5px;" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="50" style="margin: 0 5px;" />
-
-</div>
+* 🛒 **[E-commerce Analytics Dashboard](#):** Designed interactive dashboards leveraging SQL and visualization tools to track KPIs and analyze e-commerce trends. *(Replace '#' with your repo link)*
+* 📦 **[Logistics Management System](#):** Applied ERP concepts (Odoo/SAP) to streamline workflows and optimize supply chain performance. *(Replace '#' with your repo link)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAliHassanAli&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAliHassanAli&layout=compact&theme=dracula&hide_border=true" width="40%" alt="Top Languages" />
 </div>
 
 <br>
@@ -71,10 +69,9 @@ I have successfully delivered comprehensive projects, including an **E-commerce 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hassan-ali-ha2026">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:hassan.ali.ha2026@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
