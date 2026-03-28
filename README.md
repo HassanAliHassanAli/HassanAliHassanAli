@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hassan Ali <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyNe/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
 ---
@@ -45,7 +45,9 @@ I am dedicated to bridging the gap between business processes and technical solu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=radical" alt="Hassan's GitHub Stats" />
+  <a href="https://github.com/HassanAliHassanAli">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=radical" alt="Hassan's GitHub Stats" />
+  </a>
 </p>
 
 ---
