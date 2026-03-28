@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Hassan Ali 👋</h1>
-<h3 align="center">Data & Business Analyst | ERP & Supply Chain Specialist</h3>
+<h1 align="center">Hi there, I'm Hassan Ali <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyNe/giphy.gif" width="35"></h1>
+<h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
 ---
 
@@ -7,12 +7,11 @@
 
 **Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
 
-I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making. 
+I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights to drive strategic decision-making.
 
-* 📊 **Data Analysis:** Designing interactive dashboards and analyzing KPIs using database management tools (SQL, Power BI, Tableau).
-* ⚙️ **Business Analysis:** Modeling business processes, designing workflows, and working within Agile methodologies.
-* 🚚 **ERP & Supply Chain:** Practical understanding of supply chain management, logistics optimization, and ERP systems (Odoo, SAP).
-* 🚀 **Current Focus:** Developing a comprehensive graduation project analyzing **Nokia's** business models and market strategies.
+* ⚙️ **Data & ERP Systems:** Practical expertise in system analysis and implementing enterprise solutions (Odoo, SAP) to streamline business workflows and supply chain operations.
+* 📊 **Data Analysis:** Designing interactive dashboards and tracking KPIs using advanced database management and visualization tools.
+* 💼 **Business Analysis:** Modeling business processes, optimizing logistics, and identifying operational bottlenecks using data-driven methodologies.
 
 ---
 
