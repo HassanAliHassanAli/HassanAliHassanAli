@@ -43,6 +43,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 ---
 ## 📈 GitHub Activity
 
+![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAliHassanAli&theme=dark)
 
 ---
 
