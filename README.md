@@ -40,7 +40,8 @@ I am dedicated to bridging the gap between business processes and technical solu
 * 🛒 **[E-commerce Analytics Dashboard](https://github.com/HassanAliHassanAli/E-commerce-Analytics-PowerBI):** Designed interactive dashboards leveraging data visualization tools to track KPIs and analyze e-commerce trends.
 * 📦 **[Odoo Sales Intelligence](https://github.com/HassanAliHassanAli/Odoo_Sales_Intelligence_Dashboard):** Applied ERP concepts to streamline workflows and optimize business performance.
 
----## 📈 GitHub Activity
+---
+## 📈 GitHub Activity
 
 ![GitHub Metrics](https://metrics.lecoq.io/HassanAliHassanAli?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Africa%2FCairo)
 ---
