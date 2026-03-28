@@ -43,7 +43,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 ---
 ## 📈 GitHub Activity
 
-![GitHub Metrics](https://metrics.lecoq.io/HassanAliHassanAli?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Africa%2FCairo)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=default)
 ---
 
 ## 📫 Connect with Me
