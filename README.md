@@ -5,7 +5,7 @@
 
 ## 👨‍💼 About Me
 
-**Final Year Business Information Systems (BIS) Student | Top Achiever @InnovEgypt**
+**Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
 
 I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights to drive strategic decision-making.
 
@@ -45,9 +45,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/HassanAliHassanAli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=radical" alt="Hassan's GitHub Stats" />
-  </a>
+  [![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=default)](https://github.com/HassanAliHassanAli)
 </p>
 
 ---
