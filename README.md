@@ -44,9 +44,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=default" alt="Hassan's GitHub Stats" />
-</p>
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=default)
 
 ---
 
