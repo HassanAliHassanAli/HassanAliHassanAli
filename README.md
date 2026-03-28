@@ -5,7 +5,7 @@
 
 ## 👨‍💼 About Me
 
-**Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
+**Final Year Business Information Systems (BIS) Student | Top Achiever @InnovEgypt**
 
 I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights to drive strategic decision-making.
 
