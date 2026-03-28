@@ -1,77 +1,63 @@
-<div align="center">
-  <h1>Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Final+Year+BIS+Student;Data+%26+Business+Analyst;ERP+Specialist+(Odoo+%2F+SAP);Supply+Chain+%26+Logistics+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi there, I'm Hassan Ali 👋</h1>
+<h3 align="center">Data & Business Analyst | ERP & Supply Chain Specialist</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💼 About Me
 
-**Final Year Business Information Systems (BIS) Student | Data & Business Analysis**
+**Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
 
-I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making. Through academic rigor and practical application, I have developed strong proficiency in:
+I am dedicated to bridging the gap between business processes and technical solutions. I specialize in transforming raw data into actionable insights that drive strategic decision-making. 
 
-* 📊 **Data Analysis:** Designing interactive dashboards and analyzing KPIs using database management tools.
-* 🔄 **Business Analysis:** Modeling business processes, designing workflows, and working within Agile methodologies.
-* 🏭 **ERP Systems:** Practical understanding of supply chain management and logistics optimization.
-
-Combining an analytical mindset with technical proficiency, I am seeking a challenging role or internship where I can leverage these tools to optimize performance and contribute to organizational success.
+* 📊 **Data Analysis:** Designing interactive dashboards and analyzing KPIs using database management tools (SQL, Power BI, Tableau).
+* ⚙️ **Business Analysis:** Modeling business processes, designing workflows, and working within Agile methodologies.
+* 🚚 **ERP & Supply Chain:** Practical understanding of supply chain management, logistics optimization, and ERP systems (Odoo, SAP).
+* 🚀 **Current Focus:** Developing a comprehensive graduation project analyzing **Nokia's** business models and market strategies.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 **Data Analytics & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white" alt="Access" />
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 **Business Analysis & ERP**
-<p align="left">
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white" alt="SAP" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=Microsoft%20Visio&logoColor=white" alt="Visio" />
-  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=Agile&logoColor=white" alt="Agile" />
+<p>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-* 🛒 **[E-commerce Analytics Dashboard](#):** Designed interactive dashboards leveraging SQL and visualization tools to track KPIs and analyze e-commerce trends. *(Replace '#' with your repo link)*
-* 📦 **[Logistics Management System](#):** Applied ERP concepts (Odoo/SAP) to streamline workflows and optimize supply chain performance. *(Replace '#' with your repo link)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAliHassanAli&layout=compact&theme=dracula&hide_border=true" width="40%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HassanAliHassanAli&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
-</div>
+* 📁 **[Central Projects Portfolio](https://github.com/HassanAliHassanAli/projects):** A comprehensive collection of all my hands-on projects in Data Analytics, ERP, and Supply Chain.
+* 🛒 **[E-commerce Analytics Dashboard](https://github.com/HassanAliHassanAli/E-commerce-Analytics-PowerBI):** Designed interactive dashboards leveraging data visualization tools to track KPIs and analyze e-commerce trends.
+* 📦 **[Odoo Sales Intelligence](https://github.com/HassanAliHassanAli/Odoo_Sales_Intelligence_Dashboard):** Applied ERP concepts to streamline workflows and optimize business performance.
 
 ---
 
-### 📫 Connect with Me
+## 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hassan-ali-ha2026">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=radical" alt="Hassan's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hassan-ali-ha2026" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hassan.ali.ha2026@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
