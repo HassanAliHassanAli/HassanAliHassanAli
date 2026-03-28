@@ -43,7 +43,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 ---
 ## 📈 GitHub Activity
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=dark)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=dark&v=1)
 
 ---
 
