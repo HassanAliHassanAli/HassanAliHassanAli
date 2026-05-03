@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
+<img width="600" height="600" alt="Learning-Path_badge_default" src="https://github.com/user-attachments/assets/584f4bc5-f341-43ad-b2e6-44aed9e5cb4f" />
 
 ---
 
