@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
-<img width="600" height="600" alt="Learning-Path_badge_default" src="https://github.com/user-attachments/assets/584f4bc5-f341-43ad-b2e6-44aed9e5cb4f" />
-
 ---
 
 ## 👨‍💼 About Me
@@ -40,6 +38,7 @@ I am dedicated to bridging the gap between business processes and technical solu
     <img src="https://github.com/user-attachments/assets/3a2b6050-3626-4ab5-bc26-038d8864ba14" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="160">
   </a>
 </div>
+<img width="600" height="600" alt="Learning-Path_badge_default" src="https://github.com/user-attachments/assets/584f4bc5-f341-43ad-b2e6-44aed9e5cb4f" />
 
 
 ## 🚀 Featured Projects
