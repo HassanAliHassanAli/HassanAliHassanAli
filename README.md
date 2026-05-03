@@ -30,15 +30,6 @@ I am dedicated to bridging the gap between business processes and technical solu
   <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
 </p>
 
-## 🏅 Badges
-
-<div align="center">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D7F6D37B981F698DBD1706CB9085E05B7AC3E6CE50AD7F9E0C97AAD59DAAECAF" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3a2b6050-3626-4ab5-bc26-038d8864ba14" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="160">
-  </a>
-</div>
-<img width="600" height="600" alt="Learning-Path_badge_default" src="https://github.com/user-attachments/assets/584f4bc5-f341-43ad-b2e6-44aed9e5cb4f" />
-
 
 ## 🚀 Featured Projects
 
