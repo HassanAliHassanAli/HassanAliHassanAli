@@ -31,8 +31,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 
 <div align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D7F6D37B981F698DBD1706CB9085E05B7AC3E6CE50AD7F9E0C97AAD59DAAECAF" target="_blank">
-    <img src="<img width="552" height="276" alt="OCI25FNDCFA" src="https://github.com/user-attachments/assets/a502f3df-bbcf-4f49-af58-87a1ecce6e95" />
-" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="160">
+    <img src="https://github.com/user-attachments/assets/a502f3df-bbcf-4f49-af58-87a1ecce6e95" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="160">
   </a>
 </div>
 
