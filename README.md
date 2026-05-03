@@ -25,6 +25,12 @@ I am dedicated to bridging the gap between business processes and technical solu
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
+**Business Analysis & ERP**
+<p>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
+</p>
 ---
 
 ## 🏅 Badges
@@ -34,15 +40,6 @@ I am dedicated to bridging the gap between business processes and technical solu
     <img src="https://github.com/user-attachments/assets/3a2b6050-3626-4ab5-bc26-038d8864ba14" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="160">
   </a>
 </div>
----
-
-**Business Analysis & ERP**
-<p>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
