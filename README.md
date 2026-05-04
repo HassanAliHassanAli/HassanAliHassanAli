@@ -31,6 +31,31 @@ I am dedicated to bridging the gap between business processes and technical solu
 </p>
 
 
+### 🛠️ Tech Stack & Tools
+
+**Data Analytics & AI / LLM**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLM & GenAI](https://img.shields.io/badge/LLM_&_Prompt_Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white)
+
+**Databases & Cloud Infrastructure**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Microsoft Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Business Analysis & ERP**
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-31752F?style=for-the-badge&logo=microsoft&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white)
+
+
 ## 📈 GitHub Activity
 
 ![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAliHassanAli&theme=dark)
