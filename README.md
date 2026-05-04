@@ -42,7 +42,7 @@ I am dedicated to bridging the gap between business processes and technical solu
 ![Agile](https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white)
 
 
-### 📊 GitHub Analytics
+### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=HassanAliHassanAli&theme=tokyonight" alt="GitHub Streak" />
@@ -55,14 +55,6 @@ I am dedicated to bridging the gap between business processes and technical solu
 </div>
 
 
-
-
-
-## 📈 GitHub Activity
-
-![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAliHassanAli&theme=dark)
-
----
 
 ## 📫 Connect with Me
 
