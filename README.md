@@ -31,13 +31,6 @@ I am dedicated to bridging the gap between business processes and technical solu
 </p>
 
 
-## 🚀 Featured Projects
-
-* 📁 **[Central Projects Portfolio](https://github.com/HassanAliHassanAli/projects):** A comprehensive collection of all my hands-on projects in Data Analytics, ERP, and Supply Chain.
-* 🛒 **[E-commerce Analytics Dashboard](https://github.com/HassanAliHassanAli/E-commerce-Analytics-PowerBI):** Designed interactive dashboards leveraging data visualization tools to track KPIs and analyze e-commerce trends.
-* 📦 **[Odoo Sales Intelligence](https://github.com/HassanAliHassanAli/Odoo_Sales_Intelligence_Dashboard):** Applied ERP concepts to streamline workflows and optimize business performance.
-
----
 ## 📈 GitHub Activity
 
 ![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAliHassanAli&theme=dark)
