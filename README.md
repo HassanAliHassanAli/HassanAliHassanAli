@@ -5,7 +5,7 @@
 
 **Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
 
-I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights to drive strategic decision-making.
+I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights. Currently, I am expanding my skill set by integrating Large Language Models (LLMs) and Prompt Engineering to automate data workflows and enhance strategic decision-making.
 
 * ⚙️ **Data & ERP Systems:** Practical expertise in system analysis and implementing enterprise solutions (Odoo, SAP) to streamline business workflows and supply chain operations.
 * 📊 **Data Analysis:** Designing interactive dashboards and tracking KPIs using advanced database management and visualization tools.
