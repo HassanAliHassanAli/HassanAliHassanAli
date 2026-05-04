@@ -56,19 +56,6 @@ I am dedicated to bridging the gap between business processes and technical solu
 
 
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=tokyonight"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HassanAliHassanAli&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-
 
 
 ## 📈 GitHub Activity
