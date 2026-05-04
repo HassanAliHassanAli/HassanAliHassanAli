@@ -42,6 +42,22 @@ I am dedicated to bridging the gap between business processes and technical solu
 ![Agile](https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white)
 
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanAliHassanAli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAliHassanAli&layout=compact&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HassanAliHassanAli&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+
+
+
 ## 📈 GitHub Activity
 
 ![Hassan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAliHassanAli&theme=dark)
