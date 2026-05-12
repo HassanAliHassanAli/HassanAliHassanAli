@@ -1,9 +1,13 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/e11c3ade-08b9-44cf-b6b1-e7b72ff3dea0" width="300" height="40" controls></video>
-</p>
+<div align="center">
+  <details>
+    <summary><b>🔊 Click to hear my 1-minute professional introduction</b></summary>
+    <br>
+    <video src="https://github.com/user-attachments/assets/e11c3ade-08b9-44cf-b6b1-e7b72ff3dea0" width="600" controls></video>
+  </details>
+</div>
 
 ## 👨‍💼 About Me
 
