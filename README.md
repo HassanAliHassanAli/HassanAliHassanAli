@@ -3,9 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/user-attachments/files/27615822/Hassan_Intro-enhanced-v2.wav">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="400" alt="Play Introduction">
-    <br>
-    <b>Click the waves to hear my professional intro 🔊</b>
+    <img src="https://img.shields.io/badge/Listen%20to%20my%20Intro-0078D4?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Play Audio">
   </a>
 </p>
 
