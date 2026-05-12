@@ -2,8 +2,9 @@
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
 <p align="center">
-  <audio controls src="https://github.com/user-attachments/files/27615822/Hassan_Intro-enhanced-v2.wav"></audio>
+  <video src="https://github.com/user-attachments/assets/e11c3ade-08b9-44cf-b6b1-e7b72ff3dea0" width="380" controls></video>
 </p>
+
 ## 👨‍💼 About Me
 
 **Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
