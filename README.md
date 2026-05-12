@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
-<audio controls src="https://github.com/user-attachments/files/27615466/Hassan_Intro-enhanced-v2.wav"></audio>
-
+<p align="center">
+  <audio controls src="https://github.com/user-attachments/files/27615555/Hassan_Intro-enhanced-v2.wav"></audio>
+</p>
 ## 👨‍💼 About Me
 
 **Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
