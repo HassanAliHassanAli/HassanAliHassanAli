@@ -68,10 +68,47 @@ I am dedicated to bridging the gap between business processes and technical solu
 </p>
 
 ## 📄 Quick Intro & Career Portfolio
+
+
 <div align="center">
   <details>
     <summary><b>🔊 Click to hear my 1-minute professional introduction</b></summary>
     <br>
    <video src="https://github.com/user-attachments/assets/0de3cb0e-6254-4651-917a-3acb75b472f7" width="600" controls></video>
+  </details>
+</div>
+
+
+
+<div align="center">
+  <details>
+    <summary><b>📄 Explore my Specialized Resumes (CVs)</b></summary>
+    <br>
+    <table align="center">
+      <tr>
+        <td><b>General Resume</b></td>
+        <td><a href="حط_لينك_الملف_المجمع_هنا">📥 Download</a></td>
+      </tr>
+      <tr>
+        <td><b>Data Analytics</b></td>
+        <td><a href="حط_لينك_تحليل_البيانات_هنا">📥 Download</a></td>
+      </tr>
+      <tr>
+        <td><b>Business Analysis</b></td>
+        <td><a href="حط_لينك_تحليل_الأعمال_هنا">📥 Download</a></td>
+      </tr>
+      <tr>
+        <td><b>Supply Chain & Logistics</b></td>
+        <td><a href="حط_لينك_سلاسل_الإمداد_هنا">📥 Download</a></td>
+      </tr>
+      <tr>
+        <td><b>AI Engineering</b></td>
+        <td><a href="حط_لينك_الذكاء_الاصطناعي_هنا">📥 Download</a></td>
+      </tr>
+      <tr>
+        <td><b>Cloud Computing</b></td>
+        <td><a href="حط_لينك_الأنظمة_السحابية_هنا">📥 Download</a></td>
+      </tr>
+    </table>
   </details>
 </div>
