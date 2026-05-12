@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
-<p align="center">
-  <a href="https://github.com/user-attachments/files/27615822/Hassan_Intro-enhanced-v2.wav">
-    <img src="https://img.shields.io/badge/Listen%20to%20my%20Intro-0078D4?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Play Audio">
-  </a>
-</p>
 
 ## 👨‍💼 About Me
 
