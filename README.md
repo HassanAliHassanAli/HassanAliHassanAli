@@ -6,9 +6,8 @@
     <summary><b>🔊 Click to hear my 1-minute professional introduction</b></summary>
     <br>
     <video src="
-https://github.com/user-attachments/assets/61e2506c-d8db-4a7f-84f6-739a1e6ea32f
-" width="600" controls
-></video>
+https://github.com/user-attachments/assets/0de3cb0e-6254-4651-917a-3acb75b472f7
+" width="600" controls></video>
   </details>
 </div>
 
