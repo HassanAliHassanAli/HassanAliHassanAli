@@ -1,12 +1,13 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
+<div align="center">
 ## 👨‍💼 About Me
 
 **Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
 
 I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights. Currently, I am expanding my skill set by integrating Large Language Models (LLMs) and Prompt Engineering to automate data workflows and enhance strategic decision-making.
-
+</div>
 * ⚙️ **Data & ERP Systems:** Practical expertise in system analysis and implementing enterprise solutions (Odoo, SAP) to streamline business workflows and supply chain operations.
 * 📊 **Data Analysis:** Designing interactive dashboards and tracking KPIs using advanced database management and visualization tools.
 * 💼 **Business Analysis:** Modeling business processes, optimizing logistics, and identifying operational bottlenecks using data-driven methodologies.
