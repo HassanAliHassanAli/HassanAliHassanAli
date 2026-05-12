@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
-<div align="center">
-  <details>
-    <summary><b>🔊 Click to hear my 1-minute professional introduction</b></summary>
-    <br>
-   <video src="https://github.com/user-attachments/assets/0de3cb0e-6254-4651-917a-3acb75b472f7" width="600" controls></video>
-  </details>
-</div>
-
 ## 👨‍💼 About Me
 
 **Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
@@ -74,3 +66,12 @@ I am dedicated to bridging the gap between business processes and technical solu
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+## 📄 Quick Intro & Career Portfolio
+<div align="center">
+  <details>
+    <summary><b>🔊 Click to hear my 1-minute professional introduction</b></summary>
+    <br>
+   <video src="https://github.com/user-attachments/assets/0de3cb0e-6254-4651-917a-3acb75b472f7" width="600" controls></video>
+  </details>
+</div>
