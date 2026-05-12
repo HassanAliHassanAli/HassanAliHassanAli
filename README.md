@@ -2,10 +2,10 @@
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/e11c3ade-08b9-44cf-b6b1-e7b72ff3dea0">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="400" alt="Listen to my Intro">
+  <a href="https://github.com/user-attachments/files/27615822/Hassan_Intro-enhanced-v2.wav">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="400" alt="Play Introduction">
     <br>
-    <sub>(Click to play my professional introduction 🔊)</sub>
+    <b>Click the waves to hear my professional intro 🔊</b>
   </a>
 </p>
 
