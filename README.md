@@ -2,7 +2,11 @@
 <h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e11c3ade-08b9-44cf-b6b1-e7b72ff3dea0" width="380" controls></video>
+  <a href="https://github.com/user-attachments/assets/e11c3ade-08b9-44cf-b6b1-e7b72ff3dea0">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="400" alt="Listen to my Intro">
+    <br>
+    <sub>(Click to play my professional introduction 🔊)</sub>
+  </a>
 </p>
 
 ## 👨‍💼 About Me
