@@ -91,30 +91,27 @@ I am dedicated to bridging the gap between business processes and technical solu
     <table align="center">
       <tr>
         <td><b>General Resume</b></td>
-        <td><a href="[Hassan Ali.pdf](https://github.com/user-attachments/files/27765825/Hassan.Ali.pdf)
-">📥 Download</a></td>
+        <td><a href="https://github.com/user-attachments/files/27765825/Hassan.Ali.pdf">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>Data Analytics</b></td>
-        <td><a href="[Hassan_Ali_Data_Analyst.pdf](https://github.com/user-attachments/files/27765846/Hassan_Ali_Data_Analyst.pdf)
-">📥 Download</a></td>
+        <td><a href="https://github.com/user-attachments/files/27765846/Hassan_Ali_Data_Analyst.pdf">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>Business Analysis</b></td>
-        <td><a href="[Hassan_Ali_Business_Analyst.pdf](https://github.com/user-attachments/files/27765854/Hassan_Ali_Business_Analyst.pdf)
-">📥 Download</a></td>
+        <td><a href="https://github.com/user-attachments/files/27765854/Hassan_Ali_Business_Analyst.pdf">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>Supply Chain & Logistics</b></td>
-        <td><a href="حط_لينك_سلاسل_الإمداد_هنا">📥 Download</a></td>
+        <td><a href="حط_لينك_سلاسل_الامداد_هنا">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>AI Engineering</b></td>
-        <td><a href="حط_لينك_الذكاء_الاصطناعي_هنا">📥 Download</a></td>
+        <td><a href="حط_لينك_الذكاء_الاصطناعي_هنا">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>Cloud Computing</b></td>
-        <td><a href="حط_لينك_الأنظمة_السحابية_هنا">📥 Download</a></td>
+        <td><a href="حط_لينك_الانظمة_السحابية_هنا">📇 Download</a></td>
       </tr>
     </table>
   </details>
