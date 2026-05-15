@@ -103,11 +103,11 @@ I am dedicated to bridging the gap between business processes and technical solu
       </tr>
       <tr>
         <td><b>Supply Chain & Logistics</b></td>
-        <td><a href="حط_لينك_سلاسل_الامداد_هنا">📇 Download</a></td>
+        <td><a href="https://github.com/user-attachments/files/27805401/Hassan_Ali_Supply_Chain.pdf">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>AI Engineering</b></td>
-        <td><a href="حط_لينك_الذكاء_الاصطناعي_هنا">📇 Download</a></td>
+        <td><a href="https://github.com/user-attachments/files/27805443/Hassan_Ali_AI_Engineer.pdf">📇 Download</a></td>
       </tr>
       <tr>
         <td><b>Cloud Computing</b></td>
