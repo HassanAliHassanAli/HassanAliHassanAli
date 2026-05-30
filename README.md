@@ -110,8 +110,6 @@ I am dedicated to bridging the gap between business processes and technical solu
         <td><a href="https://github.com/user-attachments/files/27805443/Hassan_Ali_AI_Engineer.pdf">📇 Download</a></td>
       </tr>
       <tr>
-        <td><b>Cloud Computing</b></td>
-        <td><a href="حط_لينك_الانظمة_السحابية_هنا">📇 Download</a></td>
       </tr>
      <td><b>ERP System</b></td>
         <td><a href="https://github.com/user-attachments/files/27817092/Hassan_Ali_ERP_Implementer.pdf">📇 Download</a></td>
