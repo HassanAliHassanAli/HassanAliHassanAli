@@ -116,7 +116,7 @@ I am dedicated to bridging the gap between business processes and technical solu
       </tr>
 <tr>
   <td><b>Cloud & Data Infrastructure</b></td>
-  <td><a href="https://github.com/user-attachments/files/28681962/Hassan_Ali_Cloud_Infrastructure.pdf">📄 Download</a></td>
+  <td><a href="https://github.com/user-attachments/files/28682131/Hassan_Ali_Cloud_Infrastructure.pdf">📇 Download</a></td>
 </tr>  
   </table>
   </details>
