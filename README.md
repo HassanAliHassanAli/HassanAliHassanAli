@@ -114,6 +114,10 @@ I am dedicated to bridging the gap between business processes and technical solu
      <td><b>ERP System</b></td>
         <td><a href="https://github.com/user-attachments/files/27817092/Hassan_Ali_ERP_Implementer.pdf">📇 Download</a></td>
       </tr>
-    </table>
+  <tr>
+  <td><b>Cloud & Data Infrastructure</b></td>
+  <td><a href="رابط_الملف_بعد_الرفع">📄 Download</a></td>
+</tr>  
+  </table>
   </details>
 </div>
