@@ -2,7 +2,8 @@
 <h3 align="center">Data & ERP Analyst | Cloud & AI Automation</h3>
 
 
-##👨‍💼 About Me <div align="center">
+##👨‍💼 About Me 
+<div align="center">
 ##**Recent BIS Graduate | AI Intern @ FlyRank | Practical Odoo ERP Trainee | Multi-Certified (OCI, GCP) | InnovEgypt Top Achiever**
 
 
