@@ -1,19 +1,23 @@
 <h1 align="center">Hi there, I'm Hassan Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"></h1>
-<h3 align="center">ERP Systems (Odoo) | Data & Business Analyst</h3>
+<h3 align="center">Data & ERP Analyst | Cloud & AI Automation</h3>
 
 
 ## 👨‍💼 About Me
 <div align="center">
-**Final Year Business Information Systems (BIS) Student | Top Achiever @ InnovEgypt**
+**Recent BIS Graduate | AI Intern @ FlyRank | Practical Odoo ERP Trainee | Multi-Certified (OCI, GCP) | InnovEgypt Top Achiever**
 
 I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights. Currently, I am expanding my skill set by integrating Large Language Models (LLMs) and Prompt Engineering to automate data workflows and enhance strategic decision-making.
 </div>
 
-* ⚙️ **Data & ERP Systems:** Practical expertise in system analysis and implementing enterprise solutions (Odoo, SAP) to streamline business workflows and supply chain operations.
+*   🤖 **AI & LLM Engineering:** Architecting privacy-first, 100% offline AI workspaces using Local LLMs (Qwen2, Llama) and building Retrieval-Augmented Generation (RAG) workflows for enterprise automation like financial OCR.
 
-* 📊 **Data Analysis:** Designing interactive dashboards and tracking KPIs using advanced database management and visualization tools.
+*   ☁️ **Cloud Computing & Infrastructure:** Deploying serverless AI routing and secure VPCs on Google Cloud (GCP). Officially certified as an Oracle Cloud Infrastructure (OCI) 2025 Foundations Associate.
 
-* 💼 **Business Analysis:** Modeling business processes, optimizing logistics, and identifying operational bottlenecks using data-driven methodologies.
+*   📊 **Data Engineering & Analytics:** Engineering robust Python ETL pipelines to process millions of records and developing strategic, interactive dashboards via Power BI and Tableau.
+
+*   ⚙️ **Business Analysis & ERP Solutions:** Optimizing Odoo and SAP ecosystems using Agile methodologies, Jira, and BPMN process modeling to streamline corporate operations.
+
+*   📦 **Supply Chain Intelligence:** Leveraging advanced SQL and data modeling (Star Schema) to eliminate delivery bottlenecks, track logistics KPIs, and mitigate operational risks.
 
 ---
 
