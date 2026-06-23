@@ -6,7 +6,7 @@
 <div align="center">
 **Recent BIS Graduate | AI Intern @ FlyRank | Practical Odoo ERP Trainee | Multi-Certified (OCI, GCP) | InnovEgypt Top Achiever**
 
-I am dedicated to bridging the gap between business processes and technical solutions. Instead of just theoretical knowledge, I focus on building practical, hands-on projects that transform raw data into actionable insights. Currently, I am expanding my skill set by integrating Large Language Models (LLMs) and Prompt Engineering to automate data workflows and enhance strategic decision-making.
+My background in Commercial Science and Business Information Systems (BIS) gave me a deep understanding of corporate operations and enterprise systems. I quickly realized that raw data is only valuable when it solves real-world problems, which drove me to master data analytics and ERP ecosystems (Odoo, SAP) to translate complex workflows into actionable business intelligence. Today, I am taking these solutions a step further; I bridge the gap between traditional business analysis and modern automation by architecting scalable cloud infrastructures and integrating 100% offline Local LLMs to build intelligent, secure enterprise workflows.
 </div>
 
 *   🤖 **AI & LLM Engineering:** Architecting privacy-first, 100% offline AI workspaces using Local LLMs (Qwen2, Llama) and building Retrieval-Augmented Generation (RAG) workflows for enterprise automation like financial OCR.
