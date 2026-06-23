@@ -2,9 +2,9 @@
 <h3 align="center">Data & ERP Analyst | Cloud & AI Automation</h3>
 
 
-##👨‍💼 About Me ##
-<div align="center">
-**Recent BIS Graduate | AI Intern @ FlyRank | Practical Odoo ERP Trainee | Multi-Certified (OCI, GCP) | InnovEgypt Top Achiever**
+##👨‍💼 About Me <div align="center">
+##**Recent BIS Graduate | AI Intern @ FlyRank | Practical Odoo ERP Trainee | Multi-Certified (OCI, GCP) | InnovEgypt Top Achiever**
+
 
 My background in Commercial Science and Business Information Systems (BIS) gave me a deep understanding of corporate operations and enterprise systems. I quickly realized that raw data is only valuable when it solves real-world problems, which drove me to master data analytics and ERP ecosystems (Odoo, SAP) to translate complex workflows into actionable business intelligence. Today, I am taking these solutions a step further; I bridge the gap between traditional business analysis and modern automation by architecting scalable cloud infrastructures and integrating 100% offline Local LLMs to build intelligent, secure enterprise workflows.
 </div>
