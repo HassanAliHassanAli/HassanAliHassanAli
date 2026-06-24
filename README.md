@@ -27,7 +27,6 @@ My background in Commercial Science and Business Information Systems (BIS) gave 
   <img src="https://github.com/user-attachments/assets/842bc612-7e76-4d46-b296-f0a63f77a270" width="220" alt="Oracle OCI">
 </div>
 
----
 ### 🛠️ Tech Stack & Tools
 
 **Data Analytics & AI / LLM**
