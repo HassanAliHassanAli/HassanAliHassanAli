@@ -22,8 +22,16 @@ My background in Commercial Science and Business Information Systems (BIS) gave 
 
 
 <div align="center">
-<img width="603" height="603" alt="ai-skills-fest-2026" src="https://github.com/user-attachments/assets/cf6fbc8b-65ee-47d1-bd18-b0aa4867f0d9" /><img width="552" height="276" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/fb846366-d56b-461a-9a0f-d6c7511663c8" /> <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b05dba5-19d6-4bea-825c-0f3af0a4eee1" /> <img width="100" height="90" alt="LeadershipEssentials_AR_7729b98a-6cba-4b43-af80-2dd4c202a77a" src="https://github.com/user-attachments/assets/706186aa-5906-49fd-9c6d-2250d8f0c8e0" /> <img width="100" height="92" alt="badge_Arabic_8dcc8ea7-d3ce-4c99-95e6-fd97b2812f3f" src="https://github.com/user-attachments/assets/56e7f614-763a-4d48-95a9-0a8d735788d4" />
-
+  <img src="https://github.com/user-attachments/assets/cf6fbc8b-65ee-47d1-bd18-b0aa4867f0d9" width="110" alt="AI Skills Fest 2026">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fb846366-d56b-461a-9a0f-d6c7511663c8" width="110" alt="Oracle OCI">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6b05dba5-19d6-4bea-825c-0f3af0a4eee1" width="110" alt="Google Cloud Prompt Design">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/706186aa-5906-49fd-9c6d-2250d8f0c8e0" width="110" alt="Leadership Essentials">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/56e7f614-763a-4d48-95a9-0a8d735788d4" width="110" alt="Logistics">
+</div>
 ---
 
 
