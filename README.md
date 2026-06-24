@@ -24,7 +24,7 @@ My background in Commercial Science and Business Information Systems (BIS) gave 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cf6fbc8b-65ee-47d1-bd18-b0aa4867f0d9" width="120" alt="AI Skills Fest 2026">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/842bc612-7e76-4d46-b296-f0a63f77a270" width="200" alt="Oracle OCI">
+  <img src="https://github.com/user-attachments/assets/842bc612-7e76-4d46-b296-f0a63f77a270" width="220" alt="Oracle OCI">
 </div>
 ---
 
