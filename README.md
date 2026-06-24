@@ -19,18 +19,12 @@ My background in Commercial Science and Business Information Systems (BIS) gave 
 *   ⚙️ **Business Analysis & ERP Solutions:** Optimizing Odoo and SAP ecosystems using Agile methodologies, Jira, and BPMN process modeling to streamline corporate operations.
 
 *   📦 **Supply Chain Intelligence:** Leveraging advanced SQL and data modeling (Star Schema) to eliminate delivery bottlenecks, track logistics KPIs, and mitigate operational risks.
-
+---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cf6fbc8b-65ee-47d1-bd18-b0aa4867f0d9" width="110" alt="AI Skills Fest 2026">
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/fb846366-d56b-461a-9a0f-d6c7511663c8" width="110" alt="Oracle OCI">
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6b05dba5-19d6-4bea-825c-0f3af0a4eee1" width="110" alt="Google Cloud Prompt Design">
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/706186aa-5906-49fd-9c6d-2250d8f0c8e0" width="110" alt="Leadership Essentials">
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/56e7f614-763a-4d48-95a9-0a8d735788d4" width="110" alt="Logistics">
+  <img src="https://github.com/user-attachments/assets/cf6fbc8b-65ee-47d1-bd18-b0aa4867f0d9" width="120" alt="AI Skills Fest 2026">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fb846366-d56b-461a-9a0f-d6c7511663c8" width="160" alt="Oracle OCI">
 </div>
 ---
 
