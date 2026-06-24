@@ -85,7 +85,7 @@ My background in Commercial Science and Business Information Systems (BIS) gave 
 
 <div align="center">
   <details>
-    <summary><b>🔊 Click to hear my 1-minute professional introduction</b></summary>
+    <summary><b>🔊 Click to hear my professional introduction</b></summary>
     <br>
    <video src="https://github.com/user-attachments/assets/0de3cb0e-6254-4651-917a-3acb75b472f7" width="600" controls></video>
   </details>
